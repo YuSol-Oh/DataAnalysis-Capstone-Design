@@ -1,5 +1,5 @@
-# DataAnalysis-Capstone-Design
-_**Users' Preference and Ingredient based Menu Recommendation System, using TF-IDF**_
+# DataAnalysis-Capstone-Design 
+### _**Users' Preference and Ingredient based Menu Recommendation System, using TF-IDF**_
 
 ( TF-IDF를 활용한 사용자 취향 및 재료 기반 메뉴 추천 시스템 )
 
