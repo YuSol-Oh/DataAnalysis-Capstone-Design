@@ -1,5 +1,7 @@
 # DataAnalysis-Capstone-Design
-Users' Preference and Ingredient based Menu Recommendation System, using TF-IDF
+_**Users' Preference and Ingredient based Menu Recommendation System, using TF-IDF**_
+
+( TF-IDF를 활용한 사용자 취향 및 재료 기반 메뉴 추천 시스템 )
 
 ## 1. 과제 개요
 #### 가. 과제 선정 배경 및 필요성
